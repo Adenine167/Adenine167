@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Adenine167
-- 👀 I’m interested in computational methods in mechanical engineering
+- 👋 Hi, I’m Khalid Zobaid Adnan 
+- 👀 I’m interested in computational methods in Mechanical Engineering
 - 🌱 I’m currently learning python, matlab.
 - 💞️ I’m looking to collaborate on molecular dynamics, computational solid mechanics, thermal energy system and optimization.
 - 📫 How to reach me email me at khalidzobaidme167@gmail.com 
